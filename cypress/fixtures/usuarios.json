@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Agatha",
+        "sobrenome": "Christie",
+        "cep": "55028-332"
+    },
+    {
+        "nome": "Hercule ",
+        "sobrenome": "Poirot",
+        "cep": "77826-165"
+    },
+    {
+        "nome": "Miss",
+        "sobrenome": "Marple",
+        "cep": "44020-332"
+    }
+]
